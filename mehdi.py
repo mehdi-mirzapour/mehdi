@@ -1,2 +1,2 @@
 def add_num(a, b):
-    return a + b
+    return a + b + 2
